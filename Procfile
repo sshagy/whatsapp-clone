@@ -1,1 +1,1 @@
-web: gunicorn whatsapp_clone.wsgi
+web: python manage.py runserver
