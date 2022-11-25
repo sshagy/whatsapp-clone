@@ -1,3 +1,4 @@
 channels==3.0.5
 django>=3.0,<4.0  # TODO
 channels_redis==4.0.0
+gunicorn
